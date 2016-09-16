@@ -73,6 +73,8 @@ rst_epilog = """
 
 .. |BaseStyle| replace:: :class:`.BaseStyle`
 
+.. |BlockItemContainer| replace:: :class:`.BlockItemContainer`
+
 .. |_Body| replace:: :class:`._Body`
 
 .. |_Cell| replace:: :class:`._Cell`
@@ -157,6 +159,8 @@ rst_epilog = """
 
 .. |Sections| replace:: :class:`.Sections`
 
+.. |Settings| replace:: :class:`.Settings`
+
 .. |str| replace:: :class:`.str`
 
 .. |Styles| replace:: :class:`.Styles`
@@ -166,6 +170,10 @@ rst_epilog = """
 .. |Table| replace:: :class:`.Table`
 
 .. |_TableStyle| replace:: :class:`._TableStyle`
+
+.. |TabStop| replace:: :class:`.TabStop`
+
+.. |TabStops| replace:: :class:`.TabStops`
 
 .. |_Text| replace:: :class:`._Text`
 
